@@ -1,5 +1,5 @@
 hello
 helloooooolll
 conflict
-hihihih
+edit before merge
 hihihihbh cionflict conflic
